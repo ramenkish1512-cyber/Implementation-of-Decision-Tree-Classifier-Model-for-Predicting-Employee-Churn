@@ -21,6 +21,7 @@ Developed by: RAMEN KISHORE N
 RegisterNumber: 212225240116 
 */
 ```
+```
 import pandas as pd
 from sklearn.tree import DecisionTreeClassifier, plot_tree
 from sklearn.model_selection import train_test_split
@@ -68,9 +69,5 @@ plt.show()
 ## Output:
 <img width="1086" height="326" alt="Screenshot 2026-02-25 093724" src="https://github.com/user-attachments/assets/21176fda-59c7-48a8-9350-cf933e24c9d1" />
 <img width="1017" height="595" alt="Screenshot 2026-02-25 093749" src="https://github.com/user-attachments/assets/d9da01b6-e6e8-424f-bf72-2451a1cf21a2" />
-
-
-
-
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
